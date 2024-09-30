@@ -1,0 +1,49 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+-- Found FastRTPS: /opt/ros/humble/include  
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: 
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/luka/link_center/build/photo_sorter
+[ 50%] [32mBuilding CXX object CMakeFiles/my_node.dir/src/my_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable my_node[0m
+[100%] Built target my_node
+-- Install configuration: ""
+-- Installing: /home/luka/link_center/install/photo_sorter/lib/photo_sorter/my_node
+-- Set runtime path of "/home/luka/link_center/install/photo_sorter/lib/photo_sorter/my_node" to ""
+-- Installing: /home/luka/link_center/install/photo_sorter/share/ament_index/resource_index/package_run_dependencies/photo_sorter
+-- Installing: /home/luka/link_center/install/photo_sorter/share/ament_index/resource_index/parent_prefix_path/photo_sorter
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/environment/ament_prefix_path.sh
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/environment/ament_prefix_path.dsv
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/environment/path.sh
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/environment/path.dsv
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/local_setup.bash
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/local_setup.sh
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/local_setup.zsh
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/local_setup.dsv
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/package.dsv
+-- Installing: /home/luka/link_center/install/photo_sorter/share/ament_index/resource_index/packages/photo_sorter
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/cmake/photo_sorterConfig.cmake
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/cmake/photo_sorterConfig-version.cmake
+-- Installing: /home/luka/link_center/install/photo_sorter/share/photo_sorter/package.xml

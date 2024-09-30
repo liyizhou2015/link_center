@@ -1,0 +1,2 @@
+Invoking command in '/home/luka/link_center/build/photo_sorter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/luka/link_center/src/photo_sorter -DCMAKE_INSTALL_PREFIX=/home/luka/link_center/install/photo_sorter
+Invoked command in '/home/luka/link_center/build/photo_sorter' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/luka/link_center/src/photo_sorter -DCMAKE_INSTALL_PREFIX=/home/luka/link_center/install/photo_sorter

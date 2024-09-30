@@ -1,0 +1,16 @@
+/home/luka/link_center/install/photo_sorter/lib/photo_sorter/my_node
+/home/luka/link_center/install/photo_sorter/share/ament_index/resource_index/package_run_dependencies/photo_sorter
+/home/luka/link_center/install/photo_sorter/share/ament_index/resource_index/parent_prefix_path/photo_sorter
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/environment/ament_prefix_path.sh
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/environment/ament_prefix_path.dsv
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/environment/path.sh
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/environment/path.dsv
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/local_setup.bash
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/local_setup.sh
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/local_setup.zsh
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/local_setup.dsv
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/package.dsv
+/home/luka/link_center/install/photo_sorter/share/ament_index/resource_index/packages/photo_sorter
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/cmake/photo_sorterConfig.cmake
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/cmake/photo_sorterConfig-version.cmake
+/home/luka/link_center/install/photo_sorter/share/photo_sorter/package.xml
