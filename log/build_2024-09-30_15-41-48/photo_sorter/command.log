@@ -1,6 +1,0 @@
-Invoking command in '/home/luka/link_center/build/photo_sorter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/luka/link_center/src/photo_sorter -DCMAKE_INSTALL_PREFIX=/home/luka/link_center/install/photo_sorter
-Invoked command in '/home/luka/link_center/build/photo_sorter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/luka/link_center/src/photo_sorter -DCMAKE_INSTALL_PREFIX=/home/luka/link_center/install/photo_sorter
-Invoking command in '/home/luka/link_center/build/photo_sorter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/luka/link_center/build/photo_sorter -- -j4 -l4
-Invoked command in '/home/luka/link_center/build/photo_sorter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/luka/link_center/build/photo_sorter -- -j4 -l4
-Invoking command in '/home/luka/link_center/build/photo_sorter': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/luka/link_center/build/photo_sorter
-Invoked command in '/home/luka/link_center/build/photo_sorter' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/luka/link_center/build/photo_sorter
