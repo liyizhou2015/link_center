@@ -5,8 +5,13 @@ class MyNode : public rclcpp::Node
 public:
     MyNode() : Node("my_node")
     {
-        RCLCPP_INFO(this->get_logger(), "Hello, ROS2!");
+        int a = 44;
+        int b = 2;
+        char buffer[50];
+        sprintf(buffer, "%d", b*a); 
+        RCLCPP_INFO(this->get_logger(),"This is a number: %s", buffer);
     }
+
 };
 
 int main(int argc, char** argv)
