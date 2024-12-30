@@ -10,6 +10,7 @@ public:
         char buffer[50];
         sprintf(buffer, "%d", b*a); 
         RCLCPP_INFO(this->get_logger(),"This is a number: %s", buffer);
+        // adsf sa fsdf
     }
 
 };
